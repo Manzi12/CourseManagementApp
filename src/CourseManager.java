@@ -13,11 +13,11 @@ public class CourseManager {
 
     public void displayCourses(){
         if(courses.isEmpty()){
-            System.out.printf("There are no courses found");
+            System.out.println("There are no courses found");
             return;
         }
 
-        System.out.println("Courses: ");
+        System.out.println("Courses below ");
         for (Course course : courses){
             System.out.println(course);
         }

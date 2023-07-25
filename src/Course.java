@@ -34,6 +34,6 @@ public class Course {
     }
 
     public String toString(){
-        return "Course " + getCourseName() + ", Instructor " + getInstructor() + ", Credits " + getCredits();
+        return "Course: " + getCourseName() + ", Instructor: " + getInstructor() + ", Credits: " + getCredits();
     }
 }

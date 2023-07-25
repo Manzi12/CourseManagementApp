@@ -23,4 +23,8 @@ public class CourseManager {
         }
 
     }
+
+    public ArrayList<Course> getCourses() {
+        return courses;
+    }
 }

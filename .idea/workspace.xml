@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb16ef80-847e-44cf-97ca-5cc0cd43f6ef" name="Changes" comment="simple course manager added and to string function">
+    <list default="true" id="bb16ef80-847e-44cf-97ca-5cc0cd43f6ef" name="Changes" comment="this simple app is done, will be updating and adding more features">
+      <change afterPath="$PROJECT_DIR$/src/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CourseManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CourseManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,13 +73,22 @@
       <option name="project" value="LOCAL" />
       <updated>1690316643384</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="this simple app is done, will be updating and adding more features">
+      <option name="closed" value="true" />
+      <created>1690318571988</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1690318571988</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Course management app now started" />
     <MESSAGE value="course class created with its getter and setters" />
     <MESSAGE value="simple course manager added and to string function" />
-    <option name="LAST_COMMIT_MESSAGE" value="simple course manager added and to string function" />
+    <MESSAGE value="this simple app is done, will be updating and adding more features" />
+    <option name="LAST_COMMIT_MESSAGE" value="this simple app is done, will be updating and adding more features" />
   </component>
 </project>
